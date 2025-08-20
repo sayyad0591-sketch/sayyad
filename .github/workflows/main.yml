@@ -1,4 +1,4 @@
-name: Run addition Script
+name: Run add Script
 
 on: [push]
 
