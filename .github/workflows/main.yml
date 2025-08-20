@@ -1,4 +1,4 @@
-name: Run add Script
+name: Run src/test_addition Script
 
 on: [push]
 
